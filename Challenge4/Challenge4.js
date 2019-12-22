@@ -22,7 +22,7 @@ let john = {
 };
 
 let mark = {
-  name: "Mark",
+  name: "Mark Miller",
   mass: 84,
   height: 1.71,
   markBMI: function() {
